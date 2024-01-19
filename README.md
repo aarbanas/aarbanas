@@ -10,10 +10,11 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 ## Technologies & Tools
 
-- 💻 Node.js (Nest, Fastify, Express, Strapi, Serverless)
-- 💻 Golang
-- 💻 Next.js and React
-- 💻 Angular
+![BE](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest)
+![fe](https://skillicons.dev/icons?i=angular,react,next,electron,html,css)
+
+![OtherLanguages](https://skillicons.dev/icons?i=go,mongo,mysql,postgres,aws,graphql,postman,prisma,terraform,tailwind,solidity,sass)
+
 
 ## GitHub Stats
 
@@ -24,3 +25,4 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 - [LinkedIn](https://www.linkedin.com/in/andrej-arbanas-50470590/)
 
 Feel free to explore my repositories, and don't hesitate to reach out! 🚀
+
