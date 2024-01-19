@@ -10,15 +10,16 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 ## Technologies & Tools
 
-![BE](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest)
-![fe](https://skillicons.dev/icons?i=angular,react,next,electron,html,css)
+![BE](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express)
+![fe](https://skillicons.dev/icons?i=angular,react,next,electron)
 
-![OtherLanguages](https://skillicons.dev/icons?i=go,mongo,mysql,postgres,aws,graphql,postman,prisma,terraform,tailwind,solidity,sass)
+![OtherLanguages](https://skillicons.dev/icons?i=go,mongo,mysql,postgres,aws,graphql)
 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarbanas&show_icons=true&count_private=true&hide=contribs,prs)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aarbanas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 ## Connect with Me
 
