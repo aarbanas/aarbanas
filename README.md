@@ -4,7 +4,8 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 ## About Me
 
-- 📚 I'm currently learning Golang and would like to work on some small side projects.
+- 🔧 Working as Full-Stack Developer (Node.js + Next.js)
+- 📚 I'm currently learning Golang
 - 💬 I am interested in backend technologies especially Node.js and Golang.
 - 📫 How to reach me: andrej.arbanas at gmail.com.
 
@@ -16,7 +17,6 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 ![OtherLanguages](https://skillicons.dev/icons?i=go,mongo,mysql,postgres,aws,graphql&perLine=6)
 
-
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -26,12 +26,8 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aarbanas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrej-arbanas-50470590/)
 
 Feel free to explore my repositories, and don't hesitate to reach out! 🚀
-
-
-
