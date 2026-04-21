@@ -5,8 +5,9 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 ## About Me
 
 - 🔧 Working as Full-Stack Developer (Node.js + Next.js)
-- 📚 I'm currently learning Golang
-- 💬 I am interested in backend technologies especially Node.js and Golang.
+- 📚 I'm currently learning Golang and Python
+- 💬 I am interested in backend technologies especially Node.js, Golang and Python.
+- 🤖 Interested in AI
 - 📫 How to reach me: andrej.arbanas at gmail.com.
 
 ## Technologies & Tools
