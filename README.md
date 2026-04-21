@@ -11,11 +11,11 @@ I'm Andrej Arbanas, a passionate Full-Stack Engineer from Croatia. Welcome to my
 
 ## Technologies & Tools
 
-![BE](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest&perLine=6)
+![BE](https://skillicons.dev/icons?i=js,ts,nodejs,deno,nestjs,express,jest,kafka,redis&perLine=6)
 
-![fe](https://skillicons.dev/icons?i=angular,react,next,electron,html,docker&perLine=6)
+![fe](https://skillicons.dev/icons?i=angular,react,next,electron,html,docker,bun,css,tailwind&perLine=6)
 
-![OtherLanguages](https://skillicons.dev/icons?i=go,mongo,mysql,postgres,aws,graphql&perLine=6)
+![OtherLanguages](https://skillicons.dev/icons?i=go,py,fastapi,mongo,mysql,postgres,aws,graphql,dynamodb&perLine=6)
 
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
